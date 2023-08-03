@@ -10,7 +10,7 @@ import { Grid, Container } from '@material-ui/core';
 const useStyles = makeStyles((theme) =>
 ({
     root: {
-        width: 275,
+        width: 274,
         // maxWidth: 275,
         backgroundColor: "#000000"
         // backgroundColor: "#e0e0e8"
